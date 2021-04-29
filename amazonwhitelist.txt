@@ -1,0 +1,24 @@
+aan.amazon.com
+aax-us-iad.amazon.com
+device-metrics-us.amazon.com
+device-metrics-us-2.amazon.com
+fls-na.amazon.com
+mads.amazon.com
+aax.amazon- adsystem.com
+aax-us.amazon-adsystem.com
+aax-us-east.amazon-adsystem.com
+c.amazon-adsystem.com
+mads.amazon-adsystem.com
+s.amazon-adsystem.com
+aan.amazon.in
+aax-us-iad.amazon.in
+device-metrics-us.amazon.in
+device-metrics-us- 2.amazon.in
+fls-na.amazon.in
+mads.amazon.in
+aax.amazon-adsystem.in
+aax-us.amazon-adsystem.in
+aax-us-east.amazon-adsystem.in
+c.amazon-adsystem.in
+mads.amazon-adsystem.in
+s.amazon-adsystem.in
